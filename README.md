@@ -1,7 +1,7 @@
 ## 👩🏻‍💼 Who I am
 
 - Hello, I am @Kadievka,
--  I am web developer 👩‍💻
+- I am web developer 👩‍💻
 - I am always learning new things for web development
 
 ## What this GitHub profile is for ?
