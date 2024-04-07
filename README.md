@@ -17,6 +17,7 @@
 - Typescript
 - NodeJs
 - AWS
+- Design Patterns for JS and TS
 
 ## I also know a little of:
 
@@ -25,9 +26,11 @@
 - Docker 🐳
 - Sass ✨
 - Angular 🛡️
+- Java
 
 ## Now I am learning...
 
-- Design Patterns for JS and TS
+- QA Tester new Skills and Methodologies
+- Automate testing
 
-Last updated: 16/01/2023
+Last updated: 07/04/2024
